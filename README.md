@@ -1,5 +1,5 @@
 # lgpio-HouseholdLight
-THIS article demonstrates how to control a 120-volt light by switching a relay with the Raspberry Pi 5 or Raspberry Pi 4. A word of caution: since this project can work with household voltage of 120 or 240 volts, please be careful, as household electricity can be dangerous. Please ensure that you know what you are doing.
+This example demonstrates how to control a 120-volt light by switching a relay with the Raspberry Pi 5 or Raspberry Pi 4. A word of caution: since this project can work with household voltage of 120 or 240 volts, please be careful, as household electricity can be dangerous. Please ensure that you know what you are doing.
 
 ![](https://github.com/eugenedakin/lgpio-HouseholdLight/blob/main/8-Fritzing.png)
 
