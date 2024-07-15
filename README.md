@@ -14,7 +14,7 @@ Install instructions are:
 5) cd lg
 6) make
 7) sudo make install
-8) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop
+8) create a Light example program and copy the program and libraries to the RaspberryPi Desktop
 9) give the executable permission to run with something like: 'sudo chmod +x Light'
 10) run the program with something like: 'sudo ./Light'
 
